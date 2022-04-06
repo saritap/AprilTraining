@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\vskulhari\Desktop\AprilTraining\.metadata\.plugins\org.eclipse.jdt.core
-2015148513.index
-284406705.index
