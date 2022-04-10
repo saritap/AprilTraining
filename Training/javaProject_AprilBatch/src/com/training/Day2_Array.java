@@ -14,9 +14,12 @@ public class Day2_Array {
 	*/
 	
 	int [][]arr2d=new int[3][2];
-	for(int i=0;i<3;i++)
+	
+	
+	
+	for(int i=0;i<3;i++) // //  travsering the row i=0 j=0,j=1 ,i=1,j=0,j=1
 	{
-		for(int j=0;j<2;j++)
+		for(int j=0;j<2;j++) // traversing the colomn
 		{
 			arr2d[i][j]=a;
 			a++;
